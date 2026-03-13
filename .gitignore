@@ -1,0 +1,7 @@
+# Dossiers générés par le programme
+logs/
+quarantine/
+
+# Python cache
+__pycache__/
+*.pyc
